@@ -1,5 +1,1 @@
-if !exists('g:colors_name')
-  let g:lightline.colorscheme = 'onedark'
-  set background=dark
-  colorscheme onedark
-endif
+/home/kokoni/.homesick/repos/kokoni-workspace/home/.config/nvim/colorscheme.vim
